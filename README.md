@@ -189,8 +189,8 @@ plt.show()
 ```
 
 ## Output:
+<img width="760" alt="Output" src="https://github.com/Krishna-Prakaash/Ex1-AAI/assets/93427144/2ab00c85-242f-4d04-a023-e200b6fef237">
 
-![output](Output.png)
 
 ## Result:
 
